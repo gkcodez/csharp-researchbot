@@ -1,0 +1,18 @@
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\bin\Debug\ResearchBOT.exe.config
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\bin\Debug\ResearchBOT.exe
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\bin\Debug\ResearchBOT.pdb
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.csprojResolveAssemblyReference.cache
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.Properties.Resources.resources
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.csproj.GenerateResource.Cache
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.exe
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.pdb
+c:\users\gopala.panchavarnam\documents\visual studio 2015\Projects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.Form1.resources
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\bin\Debug\ResearchBOT.exe.config
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.exe
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.pdb
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\bin\Debug\ResearchBOT.exe
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\bin\Debug\ResearchBOT.pdb
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.Form1.resources
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.Properties.Resources.resources
+C:\VisualStudioProjects\ResearchBOT\ResearchBOT\obj\Debug\ResearchBOT.csproj.GenerateResource.Cache
